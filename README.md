@@ -1,3 +1,5 @@
+This is a setup for WebApplication having Angular Frontend and Nodejs at backend running on two different hosts.Cross Origin Request and Response are done
+
 # School1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
